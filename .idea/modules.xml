@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AWS Certified AI Practitioner.iml" filepath="$PROJECT_DIR$/AWS Certified AI Practitioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assets/assets.iml" filepath="$PROJECT_DIR$/assets/assets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/posts/posts.iml" filepath="$PROJECT_DIR$/posts/posts.iml" />
     </modules>
   </component>
 </project>
