@@ -55,7 +55,7 @@ Trained AI Model
 ↓
 Prediction or Output
 
-## AI vs Machine Learning vs Deep Learning
+## AI vs Machine Learning vs Deep Learning![Alternative Text](../assets/images/img_1.png)
 
 These concepts are closely related, but they are not the same.
 
