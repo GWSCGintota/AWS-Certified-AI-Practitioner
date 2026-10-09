@@ -27,7 +27,7 @@ These tasks include:
 | Amazon | Recommends products to customers |
 
 ## How Does AI Work?
-
+![Alternative Text](../assets/images/img.png)
 A typical AI system works through the following process:
 
 ### 1. Data
