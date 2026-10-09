@@ -1,3 +1,7 @@
+[← Previous: 1. Introduction](01-introduction.md) | [Main Index](Main.md) | [Next: 3. Why Use Spring Boot? →](03-why-use-spring-boot.md)
+
+---
+
 # What is AI (Artificial Intelligence)?
 
 **AI (Artificial Intelligence)** is a branch of computer science that enables computers and machines to perform tasks that normally require human intelligence.
@@ -111,3 +115,7 @@ Amazon Web Services (AWS) provides several services for building and using AI ap
 - **Machine Learning (ML)** allows computers to learn from data.
 - **Deep Learning (DL)** uses multilayer neural networks to learn complex patterns.
 - **AWS AI Services** provide cloud-based tools to develop and deploy AI applications without always building models from scratch.
+
+[← Previous: 1. Introduction](01-introduction.md) | [Main Index](Main.md) | [Next: 3. Why Use Spring Boot? →](03-why-use-spring-boot.md)
+
+---
